@@ -1,1 +1,0 @@
-This file contains all the C problems that I practice in my Training
